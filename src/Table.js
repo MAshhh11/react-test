@@ -38,6 +38,8 @@ const TableHeader = () => {
     )
   }
 
+  export default Table
+  
 // class Table extends Component {
 //     render() {
 //       const {characterData} = this.props
@@ -50,5 +52,3 @@ const TableHeader = () => {
 //       )
 //     }
 //   }
-
-export default Table
